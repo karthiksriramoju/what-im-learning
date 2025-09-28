@@ -1,14 +1,23 @@
 # 📚 My Learning Journal  
 
 ## DSA  
-https://www.youtube.com/watch?v=zx5Sw9130L0
+sabbatical
 
 ## Web Development & Web3 
 https://youtu.be/IPvYjXCsTg8
-https://www.youtube.com/watch?v=mvhuyAuJOjY
 
 ## Ai
-https://www.youtube.com/watch?v=Ek8JHgZtmcI
+https://www.youtube.com/watch?v=hmtuvNfytjM
+
+```sh
+{
+Why NLP
+One hot Encoding, 
+Bag Of Words, 
+TFIDF Word2vec,
+AvgWord2vec
+}
+```
 
 
 > _Keep learning, keep building, Keep Grinding!_  
